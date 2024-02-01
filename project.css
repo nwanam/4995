@@ -1,0 +1,106 @@
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+.menu {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    background-color:gold;
+    gap:30px;
+    justify-content: flex-start;
+}
+.food1 {
+    background-color: aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food2 {
+    background-color: lavender;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food3 {
+    background-color: aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food4 {
+    background-color:aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food5 {
+    background-color:aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food6 {
+    background-color:aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food7 {
+    background-color:aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.food8 {
+    background-color:aliceblue;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.header {
+    margin: 40px;
+    text-align: center;
+    gap: 30px;
+    padding: 10px;
+}
+.header ul {
+    list-style: none;
+}
+.header li {
+    display: inline;
+    margin: 15px;
+    gap: 25px;
+    border: 3px solid rgb(47, 240, 73);
+    border-radius: 35px;
+    padding: 10px;
+}
+
+.btn {
+    border: 1px solid grey;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+.btn:hover{
+    background-color: lightgreen;
+}
+.header li:hover {
+    background-color: lightgrey;
+}
+.Glad {
+    display: flex;
+    background-color: lavender;
+    justify-content: space-around;
+}
